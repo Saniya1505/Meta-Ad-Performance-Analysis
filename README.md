@@ -66,3 +66,4 @@ The dashboard is designed to help marketers and analysts **track KPIs, identify 
 ---
 
 ## 📷 Dashboard Preview
+<img width="1283" height="738" alt="Screenshot 2026-05-01 154421" src="https://github.com/user-attachments/assets/ef53ac44-b799-400f-ba86-ec38d9e7a946" />
