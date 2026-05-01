@@ -62,3 +62,7 @@ The dashboard is designed to help marketers and analysts **track KPIs, identify 
 - Track campaign performance trends over time  
 - Analyze budget allocation and efficiency  
 - Compare performance across Facebook and Instagram 
+
+---
+
+## 📷 Dashboard Preview
